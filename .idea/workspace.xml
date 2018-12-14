@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba7e3c93-e75d-4afe-ae5d-4eadc33e9890" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/calculator_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestForCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestDiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestMult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestOtherFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/unitfw/suit/TestSuiteMultDiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/unitfw/suit/TestSuitesSumSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestDiv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestMult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestOtherFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestSub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ru/levelup/dilyara/batdalova/unitfw/suit/TestSuiteMultDiv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ru/levelup/dilyara/batdalova/unitfw/suit/TestSuitesSumSub.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1529129037">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.66" value="3" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.opened" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1244" />
+          <entry key="xml" value="130" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1383" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="XML" value="216" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="1" />
+          <entry key="class" value="2" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="8" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="29" />
+          <entry key="Manifest" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1394">
+              <caret line="82" column="21" selection-start-line="73" selection-start-column="12" selection-end-line="82" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/unitfw/suit/TestSuiteMultDiv.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/unitfw/suit/TestSuitesSumSub.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/TestSum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestMult.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestSub.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestSuitesSumSub.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestDiv.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestOtherFunction.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestSuiteMultDiv.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/unitfw/suit/TestSuitesSumSub.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/unitfw/suit/TestSuiteMultDiv.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hw_2.task1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hw_2.task1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hw_2.task1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope">
+          <expand>
+            <path>
+              <item name="UnitTestForCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="UnitTestForCalculator" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="UnitTestForCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="UnitTestForCalculator" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="UnitTestForCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="UnitTestForCalculator" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
+          <expand>
+            <path>
+              <item name="UnitTestForCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="UnitTestForCalculator" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="UnitTestForCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="UnitTestForCalculator" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="UnitTestForCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="UnitTestForCalculator" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UnitTestForCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTestForCalculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTestForCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTestForCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTestForCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTestForCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTestForCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTestForCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTestForCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTestForCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTestForCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTestForCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="batdalova" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTestForCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTestForCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="batdalova" type="462c0819:PsiDirectoryNode" />
+              <item name="unitframeworks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTestForCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UnitTestForCalculator" type="58d84e3e:PackageViewProjectNode" />
+              <item name="UnitTestForCalculator" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="UnitTestForCalculator" type="58d84e3e:PackageViewProjectNode" />
+              <item name="UnitTestForCalculator" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544831415710" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/calculator-1.0.jar" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestSuiteMultDiv">
+    <configuration name="TestDiv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestForCalculator" />
+      <option name="PACKAGE_NAME" value="ru.levelup.dilyara.batdalova.qa.unitframeworks" />
+      <option name="MAIN_CLASS_NAME" value="ru.levelup.dilyara.batdalova.qa.unitframeworks.TestDiv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestForCalculator" />
+      <option name="PACKAGE_NAME" value="ru.levelup.dilyara.batdalova.qa.unitframeworks" />
+      <option name="MAIN_CLASS_NAME" value="ru.levelup.dilyara.batdalova.qa.unitframeworks.TestMult" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuiteMultDiv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestForCalculator" />
+      <option name="PACKAGE_NAME" value="ru.levelup.dilyara.batdalova.unitfw.suit" />
+      <option name="MAIN_CLASS_NAME" value="ru.levelup.dilyara.batdalova.unitfw.suit.TestSuiteMultDiv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuitesSumSub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestForCalculator" />
+      <option name="PACKAGE_NAME" value="ru.levelup.dilyara.batdalova.unitfw.suit" />
+      <option name="MAIN_CLASS_NAME" value="ru.levelup.dilyara.batdalova.unitfw.suit.TestSuitesSumSub" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestForCalculator" />
+      <option name="PACKAGE_NAME" value="ru.levelup.dilyara.batdalova.qa.unitframeworks" />
+      <option name="MAIN_CLASS_NAME" value="ru.levelup.dilyara.batdalova.qa.unitframeworks.TestSum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestDiv" />
+      <item itemvalue="JUnit.TestMult" />
+      <item itemvalue="JUnit.TestSuitesSumSub" />
+      <item itemvalue="JUnit.TestSuiteMultDiv" />
+      <item itemvalue="JUnit.TestSum" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSuiteMultDiv" />
+        <item itemvalue="JUnit.TestSum" />
+        <item itemvalue="JUnit.TestSuitesSumSub" />
+        <item itemvalue="JUnit.TestMult" />
+        <item itemvalue="JUnit.TestDiv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba7e3c93-e75d-4afe-ae5d-4eadc33e9890" name="Default Changelist" comment="" />
+      <created>1542463240913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542463240913</updated>
+      <workItem from="1542463253156" duration="796000" />
+      <workItem from="1542465659883" duration="1292000" />
+      <workItem from="1542485534506" duration="2147000" />
+      <workItem from="1542489367234" duration="3265000" />
+      <workItem from="1542657986120" duration="5192000" />
+      <workItem from="1542694906433" duration="1358000" />
+      <workItem from="1542957936615" duration="584000" />
+      <workItem from="1543300936195" duration="5471000" />
+      <workItem from="1543391470699" duration="6194000" />
+      <workItem from="1543690206148" duration="6976000" />
+      <workItem from="1544602735988" duration="3648000" />
+      <workItem from="1544617994734" duration="1252000" />
+      <workItem from="1544619988049" duration="1312000" />
+      <workItem from="1544682834204" duration="2579000" />
+      <workItem from="1544687297816" duration="2536000" />
+      <workItem from="1544729517487" duration="347000" />
+      <workItem from="1544730939075" duration="1320000" />
+      <workItem from="1544820564282" duration="3917000" />
+      <workItem from="1544824713990" duration="4030000" />
+      <workItem from="1544831250669" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestSuitesSumSub - 2018.12.13 at 10h 09m 08s.xml">
+      <configuration name="TestSuitesSumSub" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSuiteMultDiv - 2018.12.13 at 10h 15m 40s.xml">
+      <configuration name="TestSuiteMultDiv" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSum - 2018.12.13 at 22h 32m 53s.xml">
+      <configuration name="TestSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSuitesSumSub - 2018.12.14 at 23h 58m 53s.xml">
+      <configuration name="TestSuitesSumSub" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSuitesSumSub - 2018.12.15 at 00h 05m 33s.xml">
+      <configuration name="TestSuitesSumSub" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSum - 2018.12.15 at 00h 08m 49s.xml">
+      <configuration name="TestSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSum - 2018.12.15 at 00h 23m 57s.xml">
+      <configuration name="TestSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSuiteMultDiv - 2018.12.15 at 00h 27m 42s.xml">
+      <configuration name="TestSuiteMultDiv" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSuiteMultDiv - 2018.12.15 at 00h 30m 10s.xml">
+      <configuration name="TestSuiteMultDiv" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSuiteMultDiv - 2018.12.15 at 01h 06m 51s.xml">
+      <configuration name="TestSuiteMultDiv" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54445000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3214826" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49924356" weight="0.5065574" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.5065574" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3290469" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.0.0/opentest4j-1.0.0.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTestForCalculator.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/calculator-1.0.jar!/META-INF/maven/com.epam.tat.module4/calculator/pom.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/calculator-1.0.jar!/com/epam/tat/module4/Timeout.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/calculator-1.0.jar!/META-INF/maven/com.epam.tat.module4/calculator/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/stream/ForEachOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="172" selection-start-line="172" selection-end-line="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="505" selection-start-line="505" selection-end-line="505" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/calculator-1.0.jar!/com/epam/tat/module4/Calculator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestSub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestMult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/builders/AnnotatedBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestDiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestOtherFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="21" selection-start-line="73" selection-start-column="12" selection-end-line="82" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/qa/unitframeworks/TestSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/unitfw/suit/TestSuiteMultDiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/levelup/dilyara/batdalova/unitfw/suit/TestSuitesSumSub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>UnitTestForCalculator</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apiguardian:apiguardian-api:1.0.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
